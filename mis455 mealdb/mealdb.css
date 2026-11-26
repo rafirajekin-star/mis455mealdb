@@ -1,0 +1,14 @@
+.innerStyle {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+}
+
+.innerStyle img {
+    width: 200px;
+}
+
+#showArea {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
